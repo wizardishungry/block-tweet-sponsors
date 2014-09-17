@@ -1,0 +1,5123 @@
+       <li class="js-stream-item stream-item stream-item expanding-stream-item
+" data-item-id="512269344118554624" id="stream-item-tweet-512269344118554624" data-item-type="tweet">
+      
+
+
+  
+
+
+  <div class="tweet original-tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable js-original-tweet   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+    
+data-feedback-key="stream_status_512269344118554624"
+data-tweet-id="512269344118554624"
+
+
+data-item-id="512269344118554624"
+
+ data-retweet-id="512272321001050112"
+ data-screen-name="leducviolet" data-name="Parody Accountant" data-user-id="16857215"
+
+
+
+
+
+
+
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;11:58 AM - 17 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/leducviolet/status/512269344118554624&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+
+ data-retweeter="HolidayToad"
+
+
+
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    <div class="context">
+      
+                <div class="with-icn">
+            <span class="Icon Icon--retweeted Icon--small"></span>
+              <span class="js-retweet-text"><a class="pretty-link js-user-profile-link" href="/HolidayToad" data-user-id="17597031"><b>shameful hobbies</b></a> retweeted</span>
+          </div>
+
+
+      
+      
+      
+    </div>
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+        
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/leducviolet" data-user-id="16857215">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/3027318493/6f7560eb9303cd27ef61c776203dcb38_bigger.png" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id">Parody Accountant</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name"><s>@</s><b>leducviolet</b></span>
+      
+
+  </a>
+
+        <small class="time">
+    <a href="/leducviolet/status/512269344118554624" class="tweet-timestamp js-permalink js-nav js-tooltip" title="11:58 AM - 17 Sep 2014" ><span class="_timestamp js-short-timestamp js-relative-timestamp" data-time="1410969503" data-time-ms="1410969503000" data-long-form="true">29m</span></a>
+</small>
+
+        
+      </div>
+
+      
+
+      <p class="js-tweet-text tweet-text"><a href="http://t.co/L25Ydixm74" rel="nofollow" dir="ltr" data-expanded-url="http://i.imgur.com/ftIosdJ.jpg" class="twitter-timeline-link" target="_blank" title="http://i.imgur.com/ftIosdJ.jpg" ><span class="tco-ellipsis"></span><span class="invisible">http://</span><span class="js-display-url">i.imgur.com/ftIosdJ.jpg</span><span class="invisible"></span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span></span></a></p>
+
+
+
+
+      
+      
+
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+  
+
+
+
+      
+      <div class="stream-item-footer">
+      
+<a class="details with-icn js-details" href="/leducviolet/status/512269344118554624">
+  
+  <b>
+    <span class="expand-stream-item js-view-details">
+      
+        <span class="expand-action-wrapper">Expand</span>
+    </span>
+    <span class="collapse-stream-item collapse-action-wrapper js-hide-details">
+      Collapse
+    </span>
+  </b>
+</a>
+
+
+    
+    
+
+
+
+  <ul class="tweet-actions js-actions">
+    <li class="action-reply-container">
+      <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+        <span class="Icon Icon--reply"></span>
+        <b>Reply</b>
+      </a>
+    </li>
+    <li class="action-rt-container js-toggle-state js-toggle-rt">
+      <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweet</b>
+      </a>
+      <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweeted</b>
+      </a>
+    </li>
+    <li class="action-fav-container js-toggle-state js-toggle-fav">
+      <a role="button" class="with-icn favorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorite</b>
+      </a>
+      <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorited</b>
+      </a>
+    </li>
+
+    
+
+      <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+        <li class="share-via-email js-actionShareViaEmail" data-nav="share_tweet">
+          <button type="button" class="dropdown-link">Share via email</button>
+        </li>
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+            <li class="mute-user-item pretty-link"><button type="button" class="dropdown-link">Mute @leducviolet</button></li>
+  <li class="unmute-user-item pretty-link"><button type="button" class="dropdown-link">Unmute @leducviolet</button></li>
+
+        <li class="block-or-report-link js-actionBlockOrReport" data-nav="block_or_report">
+          <button type="button" class="dropdown-link">Block or Report</button>
+        </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+
+    
+  </ul>
+
+
+</div>
+
+
+      
+
+      
+
+    </div>
+  </div>
+
+
+
+</li>
+  <li class="js-stream-item stream-item stream-item expanding-stream-item
+" data-item-id="507964004157751297" id="stream-item-tweet-507964004157751297" data-item-type="tweet">
+      
+
+
+  
+
+
+  <div class="tweet original-tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable js-original-tweet   
+ promoted-tweet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+    
+data-feedback-key="stream_status_507964004157751297"
+data-tweet-id="507964004157751297"
+data-impression-id="42385e511cea0c00"
+data-disclosure-type="promoted"
+data-item-id="507964004157751297"
+
+
+ data-screen-name="datadoghq" data-name="Datadog, Inc." data-user-id="123093566"
+
+  data-promoted="true"
+  data-advertiser-id="123093566"
+
+
+
+
+
+
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;2:50 PM - 5 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/datadoghq/status/507964004157751297&quot; data-impression-cookie=&quot;[&amp;quot;507964004157751297&amp;quot;,&amp;quot;42385e511cea0c00&amp;quot;,&amp;quot;promoted&amp;quot;,&amp;quot;&amp;quot;,[&amp;quot;15649735&amp;quot;],&amp;quot;123093566&amp;quot;]&quot; data-send-impression-cookie=&quot;true&quot; tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+ data-impression-cookie="[&quot;507964004157751297&quot;,&quot;42385e511cea0c00&quot;,&quot;promoted&quot;,&quot;&quot;,[&quot;15649735&quot;],&quot;123093566&quot;]"
+
+
+
+
+
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    <div class="context">
+      
+      
+        <div class="with-icn">
+          <span class="Icon Icon--follower Icon--small"></span>
+          <span class="social-proof">    Followed by <a class='pretty-link user-profile-link js-user-profile-link' data-user-id='15649735' href='/patrickdebois'><b>patrickdebois</b></a>.
+
+
+        </div>
+
+      
+      
+      
+    </div>
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+        
+          <a data-impression-cookie="[&quot;123093566&quot;,&quot;42385e511cea0c00&quot;,&quot;promoted&quot;,&quot;&quot;,[&quot;15649735&quot;],&quot;123093566&quot;]" class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/datadoghq" data-user-id="123093566">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/466663162972864512/Y0o5D0_u_bigger.png" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id">Datadog, Inc.</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name"><s>@</s><b>datadoghq</b></span>
+      
+
+  </a>
+
+        <small class="time">
+    <a href="/datadoghq/status/507964004157751297" class="tweet-timestamp js-permalink js-nav js-tooltip" title="2:50 PM - 5 Sep 2014" data-send-impression-cookie><span class="_timestamp js-short-timestamp " data-time="1409943030" data-time-ms="1409943030000" data-long-form="true">Sep 5</span></a>
+</small>
+
+        
+      </div>
+
+      
+
+      <p class="js-tweet-text tweet-text">It&#39;s tough to tell what&#39;s causing problems within your environment. Learn how Datadog&#39;s full-stack monitoring helps: <a href="http://t.co/dtF5wfTAZe" rel="nofollow" dir="ltr" data-expanded-url="http://bit.ly/1nxhCv8" class="twitter-timeline-link" target="_blank" title="http://bit.ly/1nxhCv8" ><span class="tco-ellipsis"></span><span class="invisible">http://</span><span class="js-display-url">bit.ly/1nxhCv8</span><span class="invisible"></span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span></span></a></p>
+
+
+
+
+      
+      
+
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+  
+
+
+
+      
+            
+      <div class="context">
+  <span class="metadata with-icn js-disclosure js-tooltip" title="">
+      <span class="Icon Icon--promoted"></span>
+<a href="/datadoghq"
+   class="js-action-profile-promoted js-user-profile-link js-promoted-badge"
+   data-user-id="123093566"
+   data-impression-cookie="[&quot;507964004157751297&quot;,&quot;42385e511cea0c00&quot;,&quot;promoted&quot;,&quot;&quot;,[&quot;15649735&quot;],&quot;123093566&quot;]"
+>Promoted by Datadog, Inc.</a>
+
+  </span>
+    <button type="button" class="btn-link dismiss-promoted js-action-dismiss with-icn"><span class="icon close"></span><b>Dismiss</b></button>
+</div>
+
+<div class="stream-item-footer">
+      
+<a class="details with-icn js-details" href="/datadoghq/status/507964004157751297">
+  
+  <b>
+    <span class="expand-stream-item js-view-details">
+      
+        <span class="expand-action-wrapper">Expand</span>
+    </span>
+    <span class="collapse-stream-item collapse-action-wrapper js-hide-details">
+      Collapse
+    </span>
+  </b>
+</a>
+
+
+    
+    
+
+
+
+  <ul class="tweet-actions js-actions">
+    <li class="action-reply-container">
+      <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+        <span class="Icon Icon--reply"></span>
+        <b>Reply</b>
+      </a>
+    </li>
+    <li class="action-rt-container js-toggle-state js-toggle-rt">
+      <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweet</b>
+      </a>
+      <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweeted</b>
+      </a>
+    </li>
+    <li class="action-fav-container js-toggle-state js-toggle-fav">
+      <a role="button" class="with-icn favorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorite</b>
+      </a>
+      <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorited</b>
+      </a>
+    </li>
+
+    
+
+      <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+        <li class="share-via-email js-actionShareViaEmail" data-nav="share_tweet">
+          <button type="button" class="dropdown-link">Share via email</button>
+        </li>
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+        <li class="block-or-report-link js-actionBlockOrReport" data-nav="block_or_report">
+          <button type="button" class="dropdown-link">Block or Report</button>
+        </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+
+    
+  </ul>
+
+
+</div>
+
+
+      
+
+      
+
+    </div>
+  </div>
+
+
+
+</li>
+  <li class="js-stream-item stream-item stream-item expanding-stream-item
+" data-item-id="512272320312791040" id="stream-item-tweet-512272320312791040" data-item-type="tweet">
+      
+
+
+  
+
+
+  <div class="tweet original-tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable js-original-tweet   
+
+
+
+ has-cards
+ has-native-media
+ with-media-forward
+
+
+ auto-expanded
+
+
+
+
+media-forward
+
+
+
+
+
+
+
+
+
+"
+    
+data-feedback-key="stream_status_512272320312791040"
+data-tweet-id="512272320312791040"
+
+
+data-item-id="512272320312791040"
+
+
+ data-screen-name="tricerarttops" data-name="♡ art $ farts cat ♡" data-user-id="95313348"
+
+
+ data-has-native-media="true"
+ data-has-cards="true"
+
+  data-card-type="photo"
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ data-you-follow="true"
+ data-you-block="false"
+
+
+>
+
+    <div class="context">
+      
+      
+
+      
+      
+      
+    </div>
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+        
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/tricerarttops" data-user-id="95313348">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/378800000799790346/ffee846a456d1b912babc9081eda67fd_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id">♡ art $ farts cat ♡</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name"><s>@</s><b>tricerarttops</b></span>
+      
+
+  </a>
+
+        <small class="time">
+    <a href="/tricerarttops/status/512272320312791040" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:10 PM - 17 Sep 2014" ><span class="_timestamp js-short-timestamp js-relative-timestamp" data-time="1410970213" data-time-ms="1410970213000" data-long-form="true">17m</span></a>
+</small>
+
+        
+      </div>
+
+      
+
+      <p class="js-tweet-text tweet-text"><a href="/hashtag/Gjonad?src=hash" data-query-source="hashtag_click" class="twitter-hashtag pretty-link js-nav" dir="ltr" ><s>#</s><b>Gjonad</b></a> <a href="http://t.co/gptvVGhiC2" class="twitter-timeline-link u-hiddenVisually" data-pre-embedded="true" dir="ltr" >pic.twitter.com/gptvVGhiC2</a></p>
+
+
+
+
+      
+              <div class="cards-media-container js-media-container"><div data-card-url="//twitter.com/tricerarttops/status/512272320312791040/photo/1" data-card-type="photo" class="cards-base cards-multimedia" data-element-context="platform_photo_card">
+
+
+  <a class="media media-thumbnail twitter-timeline-link media-forward is-preview" data-url="https://pbs.twimg.com/media/Bxv09aKCcAA2te1.jpg:large" data-resolved-url-large="https://pbs.twimg.com/media/Bxv09aKCcAA2te1.jpg:large" href="//twitter.com/tricerarttops/status/512272320312791040/photo/1">
+    <div class=" is-preview">
+          <div class="js-media-img-placeholder"
+            data-img-src="https://pbs.twimg.com/media/Bxv09aKCcAA2te1.jpg"
+             data-img-offset="-120.0px" data-img-alt="Embedded image permalink"
+            data-width="100%" style="min-height:627px">
+          </div>
+    </div>
+
+  </a>
+
+  <div class="cards-content">
+    <div class="byline">
+      
+    </div>
+    
+  </div>
+  
+</div>
+
+
+
+
+</div>
+
+
+
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      <div class="js-tweet-details-fixer tweet-details-fixer">
+
+
+
+
+  <div class="js-machine-translated-tweet-container"></div>
+    <div class="js-tweet-stats-container tweet-stats-container ">
+    </div>
+
+  <div class="client-and-actions">
+  <span class="metadata">
+    <span>12:10 PM - 17 Sep 2014</span>
+
+       &middot; <a class="permalink-link js-permalink js-nav" href="/tricerarttops/status/512272320312791040"  tabindex="-1">Details</a>
+    
+
+        <span class="flag-container flag-cards">
+  <button type="button" class="flaggable btn-link">
+    Flag media
+  </button>
+  <span class="flagged hidden">
+    Flagged
+    <span>
+      <a target="_blank" href="//support.twitter.com/articles/20069937">
+        (learn more)
+      </a>
+    </span>
+  </span>
+</span>
+        
+        
+
+  </span>
+</div>
+
+
+</div>
+
+      
+      
+
+      
+  </div>
+
+    <div class="bottom-tweet-actions u-cf">
+      
+<a class="details with-icn js-details" href="/tricerarttops/status/512272320312791040">
+    <span class="Icon Icon--photo"></span>
+
+  <b>
+    <span class="expand-stream-item js-view-details">
+      Expand
+    </span>
+    <span class="collapse-stream-item  js-hide-details">
+      Collapse
+    </span>
+  </b>
+</a>
+
+    
+    
+
+
+
+  <ul class="tweet-actions js-actions">
+    <li class="action-reply-container">
+      <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+        <span class="Icon Icon--reply"></span>
+        <b>Reply</b>
+      </a>
+    </li>
+    <li class="action-rt-container js-toggle-state js-toggle-rt">
+      <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweet</b>
+      </a>
+      <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweeted</b>
+      </a>
+    </li>
+    <li class="action-fav-container js-toggle-state js-toggle-fav">
+      <a role="button" class="with-icn favorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorite</b>
+      </a>
+      <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorited</b>
+      </a>
+    </li>
+
+    
+
+      <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+        <li class="share-via-email js-actionShareViaEmail" data-nav="share_tweet">
+          <button type="button" class="dropdown-link">Share via email</button>
+        </li>
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+            <li class="mute-user-item pretty-link"><button type="button" class="dropdown-link">Mute @tricerarttops</button></li>
+  <li class="unmute-user-item pretty-link"><button type="button" class="dropdown-link">Unmute @tricerarttops</button></li>
+
+        <li class="block-or-report-link js-actionBlockOrReport" data-nav="block_or_report">
+          <button type="button" class="dropdown-link">Block or Report</button>
+        </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+
+    
+  </ul>
+
+
+  </div>
+
+
+
+
+      
+      <div class="stream-item-footer">
+</div>
+
+
+      
+
+      
+
+    </div>
+  </div>
+
+
+
+</li>
+  <li class="js-stream-item stream-item stream-item expanding-stream-item
+" data-item-id="512272243406028800" id="stream-item-tweet-512272243406028800" data-item-type="tweet">
+      
+
+
+  
+
+
+  <div class="tweet original-tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable js-original-tweet   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+    
+data-feedback-key="stream_status_512272243406028800"
+data-tweet-id="512272243406028800"
+
+
+data-item-id="512272243406028800"
+
+
+ data-screen-name="williamsmj" data-name="ϻιқe ωιŀĽiαмƨ" data-user-id="38220781"
+ data-protected="true"
+
+
+
+
+
+
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;12:09 PM - 17 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/williamsmj/status/512272243406028800&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="williamsmj_"
+
+
+
+
+ data-you-follow="true"
+ data-you-block="false"
+
+
+>
+
+    <div class="context">
+      
+      
+
+      
+      
+      
+    </div>
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+        
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/williamsmj" data-user-id="38220781">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/1266700281/download_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id">ϻιқe ωιŀĽiαмƨ</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name"><s>@</s><b>williamsmj</b></span>
+      <span class="icon sm-lock"><span class="visuallyhidden">Protected Tweets</span></span>
+
+  </a>
+
+        <small class="time">
+    <a href="/williamsmj/status/512272243406028800" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:09 PM - 17 Sep 2014" ><span class="_timestamp js-short-timestamp js-relative-timestamp" data-time="1410970195" data-time-ms="1410970195000" data-long-form="true">17m</span></a>
+</small>
+
+        
+      </div>
+
+      
+
+      <p class="js-tweet-text tweet-text">i also have <a href="/williamsmj_" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>williamsmj_</b></a> where i tweet about my job (data science), how machine learning is cool, and how startup monoculture is toxic</p>
+
+
+
+
+      
+      
+
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+  
+
+
+
+      
+      <div class="stream-item-footer">
+      
+<a class="details with-icn js-details" href="/williamsmj/status/512272243406028800">
+  
+  <b>
+    <span class="expand-stream-item js-view-details">
+      
+        <span class="expand-action-wrapper">Expand</span>
+    </span>
+    <span class="collapse-stream-item collapse-action-wrapper js-hide-details">
+      Collapse
+    </span>
+  </b>
+</a>
+
+
+    
+    
+
+
+
+  <ul class="tweet-actions js-actions">
+    <li class="action-reply-container">
+      <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+        <span class="Icon Icon--reply"></span>
+        <b>Reply</b>
+      </a>
+    </li>
+    <li class="action-rt-container js-toggle-state js-toggle-rt">
+      <a role="button" aria-disabled="true" class="with-icn retweet cannot-retweet js-disableTweetAction js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweet</b>
+      </a>
+      <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweeted</b>
+      </a>
+    </li>
+    <li class="action-fav-container js-toggle-state js-toggle-fav">
+      <a role="button" class="with-icn favorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorite</b>
+      </a>
+      <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorited</b>
+      </a>
+    </li>
+
+    
+
+      <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+            <li class="mute-user-item pretty-link"><button type="button" class="dropdown-link">Mute @williamsmj</button></li>
+  <li class="unmute-user-item pretty-link"><button type="button" class="dropdown-link">Unmute @williamsmj</button></li>
+
+        <li class="block-or-report-link js-actionBlockOrReport" data-nav="block_or_report">
+          <button type="button" class="dropdown-link">Block or Report</button>
+        </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+
+    
+  </ul>
+
+
+</div>
+
+
+      
+
+      
+
+    </div>
+  </div>
+
+
+
+</li>
+  <li class="js-stream-item stream-item stream-item expanding-stream-item
+" data-item-id="512272143791296512" id="stream-item-tweet-512272143791296512" data-item-type="tweet">
+      
+
+
+  
+
+
+  <div class="tweet original-tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable js-original-tweet   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+    
+data-feedback-key="stream_status_512272143791296512"
+data-tweet-id="512272143791296512"
+
+
+data-item-id="512272143791296512"
+
+
+ data-screen-name="cool_bugs" data-name="FrankfurtSchoolGamer" data-user-id="878557344"
+
+
+
+
+
+
+
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;12:09 PM - 17 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/cool_bugs/status/512272143791296512&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+
+
+
+
+
+ data-you-follow="true"
+ data-you-block="false"
+
+
+>
+
+    <div class="context">
+      
+      
+
+      
+      
+      
+    </div>
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+        
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/cool_bugs" data-user-id="878557344">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/378800000540554983/5f5b2f260c04d736c2f90d36b7750546_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id">FrankfurtSchoolGamer</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name"><s>@</s><b>cool_bugs</b></span>
+      
+
+  </a>
+
+        <small class="time">
+    <a href="/cool_bugs/status/512272143791296512" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:09 PM - 17 Sep 2014" ><span class="_timestamp js-short-timestamp js-relative-timestamp" data-time="1410970171" data-time-ms="1410970171000" data-long-form="true">18m</span></a>
+</small>
+
+        
+      </div>
+
+      
+
+      <p class="js-tweet-text tweet-text">Jon Stewart spoofs Glenn Beck and rips his world apart.</p>
+
+
+
+
+      
+      
+
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+  
+
+
+
+      
+      <div class="stream-item-footer">
+      
+<a class="details with-icn js-details" href="/cool_bugs/status/512272143791296512">
+  
+  <b>
+    <span class="expand-stream-item js-view-details">
+      
+        <span class="expand-action-wrapper">Expand</span>
+    </span>
+    <span class="collapse-stream-item collapse-action-wrapper js-hide-details">
+      Collapse
+    </span>
+  </b>
+</a>
+
+
+    
+    
+
+
+
+  <ul class="tweet-actions js-actions">
+    <li class="action-reply-container">
+      <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+        <span class="Icon Icon--reply"></span>
+        <b>Reply</b>
+      </a>
+    </li>
+    <li class="action-rt-container js-toggle-state js-toggle-rt">
+      <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweet</b>
+      </a>
+      <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweeted</b>
+      </a>
+    </li>
+    <li class="action-fav-container js-toggle-state js-toggle-fav">
+      <a role="button" class="with-icn favorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorite</b>
+      </a>
+      <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorited</b>
+      </a>
+    </li>
+
+    
+
+      <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+        <li class="share-via-email js-actionShareViaEmail" data-nav="share_tweet">
+          <button type="button" class="dropdown-link">Share via email</button>
+        </li>
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+            <li class="mute-user-item pretty-link"><button type="button" class="dropdown-link">Mute @cool_bugs</button></li>
+  <li class="unmute-user-item pretty-link"><button type="button" class="dropdown-link">Unmute @cool_bugs</button></li>
+
+        <li class="block-or-report-link js-actionBlockOrReport" data-nav="block_or_report">
+          <button type="button" class="dropdown-link">Block or Report</button>
+        </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+
+    
+  </ul>
+
+
+</div>
+
+
+      
+
+      
+
+    </div>
+  </div>
+
+
+
+</li>
+  <li class="js-stream-item stream-item stream-item expanding-stream-item
+" data-item-id="512272032349048832" id="stream-item-tweet-512272032349048832" data-item-type="tweet">
+      
+
+
+  
+
+
+  <div class="tweet original-tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable js-original-tweet   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+    
+data-feedback-key="stream_status_512272032349048832"
+data-tweet-id="512272032349048832"
+
+
+data-item-id="512272032349048832"
+
+
+ data-screen-name="LuxePosh" data-name="♚Breniecia♚" data-user-id="15829282"
+
+
+
+
+
+
+
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;12:09 PM - 17 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/LuxePosh/status/512272032349048832&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+
+
+
+
+
+ data-you-follow="true"
+ data-you-block="false"
+
+
+>
+
+    <div class="context">
+      
+      
+
+      
+      
+      
+    </div>
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+        
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/LuxePosh" data-user-id="15829282">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/485676535035076610/Ap21F0cg_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id">♚Breniecia♚</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name"><s>@</s><b>LuxePosh</b></span>
+      
+
+  </a>
+
+        <small class="time">
+    <a href="/LuxePosh/status/512272032349048832" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:09 PM - 17 Sep 2014" ><span class="_timestamp js-short-timestamp js-relative-timestamp" data-time="1410970144" data-time-ms="1410970144000" data-long-form="true">18m</span></a>
+</small>
+
+        
+      </div>
+
+      
+
+      <p class="js-tweet-text tweet-text">I missed out on my klout perk for a pair of Vibrams. My life could have changed forever.</p>
+
+
+
+
+      
+      
+
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+  
+
+
+
+      
+      <div class="stream-item-footer">
+    <div class="tweet-geo-text">
+  <span class="Icon Icon--geo Icon--small"></span>
+    <a href="/search?q=place%3Abced47a0c99c71d0" class="js-nav js-geo-pivot-link" data-place-id="bced47a0c99c71d0">
+      Durham, NC
+      
+    </a>
+</div>
+      
+<a class="details with-icn js-details" href="/LuxePosh/status/512272032349048832">
+  
+  <b>
+    <span class="expand-stream-item js-view-details">
+      
+        <span class="expand-action-wrapper">Expand</span>
+    </span>
+    <span class="collapse-stream-item collapse-action-wrapper js-hide-details">
+      Collapse
+    </span>
+  </b>
+</a>
+
+
+    
+    
+
+
+
+  <ul class="tweet-actions js-actions">
+    <li class="action-reply-container">
+      <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+        <span class="Icon Icon--reply"></span>
+        <b>Reply</b>
+      </a>
+    </li>
+    <li class="action-rt-container js-toggle-state js-toggle-rt">
+      <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweet</b>
+      </a>
+      <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweeted</b>
+      </a>
+    </li>
+    <li class="action-fav-container js-toggle-state js-toggle-fav">
+      <a role="button" class="with-icn favorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorite</b>
+      </a>
+      <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorited</b>
+      </a>
+    </li>
+
+    
+
+      <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+        <li class="share-via-email js-actionShareViaEmail" data-nav="share_tweet">
+          <button type="button" class="dropdown-link">Share via email</button>
+        </li>
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+            <li class="mute-user-item pretty-link"><button type="button" class="dropdown-link">Mute @LuxePosh</button></li>
+  <li class="unmute-user-item pretty-link"><button type="button" class="dropdown-link">Unmute @LuxePosh</button></li>
+
+        <li class="block-or-report-link js-actionBlockOrReport" data-nav="block_or_report">
+          <button type="button" class="dropdown-link">Block or Report</button>
+        </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+
+    
+  </ul>
+
+
+</div>
+
+
+      
+
+      
+
+    </div>
+  </div>
+
+
+
+</li>
+  <li class="js-stream-item stream-item stream-item expanding-stream-item
+" data-item-id="512271950992146432" id="stream-item-tweet-512271950992146432" data-item-type="tweet">
+      
+
+
+  
+
+
+  <div class="tweet original-tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable js-original-tweet   
+
+
+
+ has-cards
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+    
+data-feedback-key="stream_status_512271950992146432"
+data-tweet-id="512271950992146432"
+
+
+data-item-id="512271950992146432"
+
+
+ data-screen-name="maura" data-name="maura johnston" data-user-id="12912"
+
+
+
+ data-has-cards="true"
+
+
+
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;        &lt;div class=&quot;card2 js-media-container&quot; data-card2-name=&quot;summary_large_image&quot;&gt;&#10;    &#10;&lt;div class=&quot;js-macaw-cards-iframe-container&quot;&#10;  data-src=&quot;/i/cards/tfw/v1/512271950992146432?cardname=summary_large_image&quot;&#10;  data-autoplay-src=&quot;/i/cards/tfw/v1/512271950992146432?cardname=summary_large_image&quot;&#10;  data-card-name=&quot;summary_large_image&quot;&#10;  data-card-url=&quot;http://t.co/ZouJHfWKOZ&quot;&#10;  data-publisher-id=&quot;14780915&quot;&#10;  data-creator-id=&quot;&quot;&#10;  data-amplify-content-id=&quot;&quot;&#10;  data-amplify-playlist-url=&quot;&quot; &gt;&#10;&lt;/div&gt;&#10;&#10;&lt;/div&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;12:08 PM - 17 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/maura/status/512271950992146432&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &lt;span class=&quot;flag-container flag-cards&quot;&gt;&#10;  &lt;button type=&quot;button&quot; class=&quot;flaggable btn-link&quot;&gt;&#10;    Flag media&#10;  &lt;/button&gt;&#10;  &lt;span class=&quot;flagged hidden&quot;&gt;&#10;    Flagged&#10;    &lt;span&gt;&#10;      &lt;a target=&quot;_blank&quot; href=&quot;//support.twitter.com/articles/20069937&quot;&gt;&#10;        (learn more)&#10;      &lt;/a&gt;&#10;    &lt;/span&gt;&#10;  &lt;/span&gt;&#10;&lt;/span&gt;&#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="RollingStone"
+
+
+
+
+ data-you-follow="true"
+ data-you-block="false"
+
+
+>
+
+    <div class="context">
+      
+      
+
+      
+      
+      
+    </div>
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+        
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/maura" data-user-id="12912">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/510185327085232128/YyNuuIKU_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id">maura johnston</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name"><s>@</s><b>maura</b></span>
+      
+
+  </a>
+
+        <small class="time">
+    <a href="/maura/status/512271950992146432" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:08 PM - 17 Sep 2014" ><span class="_timestamp js-short-timestamp js-relative-timestamp" data-time="1410970125" data-time-ms="1410970125000" data-long-form="true">18m</span></a>
+</small>
+
+        
+      </div>
+
+      
+
+      <p class="js-tweet-text tweet-text">wrote about a bunch of crucial maura johnston jams for <a href="/RollingStone" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>RollingStone</b></a>&#39;s guide to 1984&#39;s pop peaks <a href="http://t.co/ZouJHfWKOZ" rel="nofollow" dir="ltr" data-expanded-url="http://www.rollingstone.com/music/lists/100-best-singles-of-1984-pops-greatest-year-20140917" class="twitter-timeline-link" target="_blank" title="http://www.rollingstone.com/music/lists/100-best-singles-of-1984-pops-greatest-year-20140917" ><span class="tco-ellipsis"></span><span class="invisible">http://www.</span><span class="js-display-url">rollingstone.com/music/lists/10</span><span class="invisible">0-best-singles-of-1984-pops-greatest-year-20140917</span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span>…</span></a></p>
+
+
+
+
+      
+      
+
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+  
+
+
+
+      
+      <div class="stream-item-footer">
+      
+<a class="details with-icn js-details" href="/maura/status/512271950992146432">
+    <span class="Icon Icon--summary"></span>
+
+  <b>
+    <span class="expand-stream-item js-view-details">
+      View summary
+    </span>
+    <span class="collapse-stream-item  js-hide-details">
+      Hide summary
+    </span>
+  </b>
+</a>
+
+
+    
+    
+
+
+
+  <ul class="tweet-actions js-actions">
+    <li class="action-reply-container">
+      <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+        <span class="Icon Icon--reply"></span>
+        <b>Reply</b>
+      </a>
+    </li>
+    <li class="action-rt-container js-toggle-state js-toggle-rt">
+      <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweet</b>
+      </a>
+      <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweeted</b>
+      </a>
+    </li>
+    <li class="action-fav-container js-toggle-state js-toggle-fav">
+      <a role="button" class="with-icn favorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorite</b>
+      </a>
+      <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorited</b>
+      </a>
+    </li>
+
+    
+
+      <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+        <li class="share-via-email js-actionShareViaEmail" data-nav="share_tweet">
+          <button type="button" class="dropdown-link">Share via email</button>
+        </li>
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+            <li class="mute-user-item pretty-link"><button type="button" class="dropdown-link">Mute @maura</button></li>
+  <li class="unmute-user-item pretty-link"><button type="button" class="dropdown-link">Unmute @maura</button></li>
+
+        <li class="block-or-report-link js-actionBlockOrReport" data-nav="block_or_report">
+          <button type="button" class="dropdown-link">Block or Report</button>
+        </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+
+    
+  </ul>
+
+
+</div>
+
+
+      
+
+      
+
+    </div>
+  </div>
+
+
+
+</li>
+  <li class="js-stream-item stream-item stream-item expanding-stream-item
+" data-item-id="512271836537954304" id="stream-item-tweet-512271836537954304" data-item-type="tweet">
+      
+
+
+  
+
+
+  <div class="tweet original-tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable js-original-tweet   
+
+
+
+ has-cards
+ has-native-media
+ with-media-forward
+
+
+ auto-expanded
+
+
+
+
+media-forward
+
+
+
+
+
+
+
+
+
+"
+    
+data-feedback-key="stream_status_512271836537954304"
+data-tweet-id="512271836537954304"
+
+
+data-item-id="512271836537954304"
+
+
+ data-screen-name="miamiangels2012" data-name="coppin dunzos" data-user-id="105027033"
+
+
+ data-has-native-media="true"
+ data-has-cards="true"
+
+  data-card-type="photo"
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ data-you-follow="true"
+ data-you-block="false"
+
+
+>
+
+    <div class="context">
+      
+      
+
+      
+      
+      
+    </div>
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+        
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/miamiangels2012" data-user-id="105027033">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/2432653492/bx68tsrf2c061hfulvxr_bigger.gif" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id">coppin dunzos</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name"><s>@</s><b>miamiangels2012</b></span>
+      
+
+  </a>
+
+        <small class="time">
+    <a href="/miamiangels2012/status/512271836537954304" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:08 PM - 17 Sep 2014" ><span class="_timestamp js-short-timestamp js-relative-timestamp" data-time="1410970098" data-time-ms="1410970098000" data-long-form="true">19m</span></a>
+</small>
+
+        
+      </div>
+
+      
+
+      <p class="js-tweet-text tweet-text">jackpot <a href="http://t.co/WnSeCOCArD" class="twitter-timeline-link u-hiddenVisually" data-pre-embedded="true" dir="ltr" >pic.twitter.com/WnSeCOCArD</a></p>
+
+
+
+
+      
+              <div class="cards-media-container js-media-container"><div data-card-url="//twitter.com/miamiangels2012/status/512271836537954304/photo/1" data-card-type="photo" class="cards-base cards-multimedia" data-element-context="platform_photo_card">
+
+
+  <a class="media media-thumbnail twitter-timeline-link media-forward is-preview" data-url="https://pbs.twimg.com/media/Bxv0hMGCUAAJvPi.jpg:large" data-resolved-url-large="https://pbs.twimg.com/media/Bxv0hMGCUAAJvPi.jpg:large" href="//twitter.com/miamiangels2012/status/512271836537954304/photo/1">
+    <div class=" is-preview">
+          <div class="js-media-img-placeholder"
+            data-img-src="https://pbs.twimg.com/media/Bxv0hMGCUAAJvPi.jpg"
+             data-img-offset="-174.0px" data-img-alt="Embedded image permalink"
+            data-width="100%" style="min-height:1024px">
+          </div>
+    </div>
+
+  </a>
+
+  <div class="cards-content">
+    <div class="byline">
+      
+    </div>
+    
+  </div>
+  
+</div>
+
+
+
+
+</div>
+
+
+
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      <div class="js-tweet-details-fixer tweet-details-fixer">
+
+
+
+
+  <div class="js-machine-translated-tweet-container"></div>
+    <div class="js-tweet-stats-container tweet-stats-container ">
+    </div>
+
+  <div class="client-and-actions">
+  <span class="metadata">
+    <span>12:08 PM - 17 Sep 2014</span>
+
+       &middot; <a class="permalink-link js-permalink js-nav" href="/miamiangels2012/status/512271836537954304"  tabindex="-1">Details</a>
+    
+
+        <span class="flag-container flag-cards">
+  <button type="button" class="flaggable btn-link">
+    Flag media
+  </button>
+  <span class="flagged hidden">
+    Flagged
+    <span>
+      <a target="_blank" href="//support.twitter.com/articles/20069937">
+        (learn more)
+      </a>
+    </span>
+  </span>
+</span>
+        
+        
+
+  </span>
+</div>
+
+
+</div>
+
+      
+      
+
+      
+  </div>
+
+    <div class="bottom-tweet-actions u-cf">
+      
+<a class="details with-icn js-details" href="/miamiangels2012/status/512271836537954304">
+    <span class="Icon Icon--photo"></span>
+
+  <b>
+    <span class="expand-stream-item js-view-details">
+      Expand
+    </span>
+    <span class="collapse-stream-item  js-hide-details">
+      Collapse
+    </span>
+  </b>
+</a>
+
+    
+    
+
+
+
+  <ul class="tweet-actions js-actions">
+    <li class="action-reply-container">
+      <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+        <span class="Icon Icon--reply"></span>
+        <b>Reply</b>
+      </a>
+    </li>
+    <li class="action-rt-container js-toggle-state js-toggle-rt">
+      <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweet</b>
+      </a>
+      <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweeted</b>
+      </a>
+    </li>
+    <li class="action-fav-container js-toggle-state js-toggle-fav">
+      <a role="button" class="with-icn favorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorite</b>
+      </a>
+      <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorited</b>
+      </a>
+    </li>
+
+    
+
+      <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+        <li class="share-via-email js-actionShareViaEmail" data-nav="share_tweet">
+          <button type="button" class="dropdown-link">Share via email</button>
+        </li>
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+            <li class="mute-user-item pretty-link"><button type="button" class="dropdown-link">Mute @miamiangels2012</button></li>
+  <li class="unmute-user-item pretty-link"><button type="button" class="dropdown-link">Unmute @miamiangels2012</button></li>
+
+        <li class="block-or-report-link js-actionBlockOrReport" data-nav="block_or_report">
+          <button type="button" class="dropdown-link">Block or Report</button>
+        </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+
+    
+  </ul>
+
+
+  </div>
+
+
+
+
+      
+      <div class="stream-item-footer">
+</div>
+
+
+      
+
+      
+
+    </div>
+  </div>
+
+
+
+</li>
+  <li class="js-stream-item stream-item stream-item expanding-stream-item
+" data-item-id="512271727573753856" id="stream-item-tweet-512271727573753856" data-item-type="tweet">
+      
+
+
+  
+
+
+  <div class="tweet original-tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable js-original-tweet   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+    
+data-feedback-key="stream_status_512271727573753856"
+data-tweet-id="512271727573753856"
+
+
+data-item-id="512271727573753856"
+
+
+ data-screen-name="michaelbarthel" data-name="authentic selfie" data-user-id="37665549"
+
+
+
+
+
+
+
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;12:07 PM - 17 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/michaelbarthel/status/512271727573753856&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+
+
+
+
+
+ data-you-follow="true"
+ data-you-block="false"
+
+
+>
+
+    <div class="context">
+      
+      
+
+      
+      
+      
+    </div>
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+        
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/michaelbarthel" data-user-id="37665549">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/494888668385910784/t4uIbfHz_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id">authentic selfie</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name"><s>@</s><b>michaelbarthel</b></span>
+      
+
+  </a>
+
+        <small class="time">
+    <a href="/michaelbarthel/status/512271727573753856" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:07 PM - 17 Sep 2014" ><span class="_timestamp js-short-timestamp js-relative-timestamp" data-time="1410970072" data-time-ms="1410970072000" data-long-form="true">19m</span></a>
+</small>
+
+        
+      </div>
+
+      
+
+      <p class="js-tweet-text tweet-text">&quot;Three Pandering Sluts and Their Music Press Stooge: The Great Steve Albini Letters-to-the-Editor Debate&quot; <a href="http://t.co/zUjkulYB82" rel="nofollow" dir="ltr" data-expanded-url="http://www1.chicagoreader.com/hitsville/pander.html" class="twitter-timeline-link" target="_blank" title="http://www1.chicagoreader.com/hitsville/pander.html" ><span class="tco-ellipsis"></span><span class="invisible">http://</span><span class="js-display-url">www1.chicagoreader.com/hitsville/pand</span><span class="invisible">er.html</span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span>…</span></a></p>
+
+
+
+
+      
+      
+
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+  
+
+
+
+      
+      <div class="stream-item-footer">
+      
+<a class="details with-icn js-details" href="/michaelbarthel/status/512271727573753856">
+  
+  <b>
+    <span class="expand-stream-item js-view-details">
+      
+        <span class="expand-action-wrapper">Expand</span>
+    </span>
+    <span class="collapse-stream-item collapse-action-wrapper js-hide-details">
+      Collapse
+    </span>
+  </b>
+</a>
+
+
+    
+    
+
+
+
+  <ul class="tweet-actions js-actions">
+    <li class="action-reply-container">
+      <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+        <span class="Icon Icon--reply"></span>
+        <b>Reply</b>
+      </a>
+    </li>
+    <li class="action-rt-container js-toggle-state js-toggle-rt">
+      <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweet</b>
+      </a>
+      <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweeted</b>
+      </a>
+    </li>
+    <li class="action-fav-container js-toggle-state js-toggle-fav">
+      <a role="button" class="with-icn favorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorite</b>
+      </a>
+      <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorited</b>
+      </a>
+    </li>
+
+    
+
+      <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+        <li class="share-via-email js-actionShareViaEmail" data-nav="share_tweet">
+          <button type="button" class="dropdown-link">Share via email</button>
+        </li>
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+            <li class="mute-user-item pretty-link"><button type="button" class="dropdown-link">Mute @michaelbarthel</button></li>
+  <li class="unmute-user-item pretty-link"><button type="button" class="dropdown-link">Unmute @michaelbarthel</button></li>
+
+        <li class="block-or-report-link js-actionBlockOrReport" data-nav="block_or_report">
+          <button type="button" class="dropdown-link">Block or Report</button>
+        </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+
+    
+  </ul>
+
+
+</div>
+
+
+      
+
+      
+
+    </div>
+  </div>
+
+
+
+</li>
+  <li class="js-stream-item stream-item stream-item expanding-stream-item
+" data-item-id="512271691603787778" id="stream-item-tweet-512271691603787778" data-item-type="tweet">
+      
+
+
+  
+
+
+  <div class="tweet original-tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable js-original-tweet   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+    
+data-feedback-key="stream_status_512271691603787778"
+data-tweet-id="512271691603787778"
+
+
+data-item-id="512271691603787778"
+
+
+ data-screen-name="MikeIsaac" data-name="ಠ_ಠ" data-user-id="19040598"
+
+
+
+
+
+
+
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;12:07 PM - 17 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/MikeIsaac/status/512271691603787778&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+
+
+
+
+
+ data-you-follow="true"
+ data-you-block="false"
+
+
+>
+
+    <div class="context">
+      
+      
+
+      
+      
+      
+    </div>
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+        
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/MikeIsaac" data-user-id="19040598">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/477487240281477120/xzwfAg7s_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id">ಠ_ಠ</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name"><s>@</s><b>MikeIsaac</b></span>
+      
+
+  </a>
+
+        <small class="time">
+    <a href="/MikeIsaac/status/512271691603787778" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:07 PM - 17 Sep 2014" ><span class="_timestamp js-short-timestamp js-relative-timestamp" data-time="1410970063" data-time-ms="1410970063000" data-long-form="true">19m</span></a>
+</small>
+
+        
+      </div>
+
+      
+
+      <p class="js-tweet-text tweet-text">“jack ma” is a pretty badass name tbh</p>
+
+
+
+
+      
+      
+
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+  
+
+
+
+      
+      <div class="stream-item-footer">
+      
+<a class="details with-icn js-details" href="/MikeIsaac/status/512271691603787778">
+  
+  <b>
+    <span class="expand-stream-item js-view-details">
+      
+        <span class="expand-action-wrapper">Expand</span>
+    </span>
+    <span class="collapse-stream-item collapse-action-wrapper js-hide-details">
+      Collapse
+    </span>
+  </b>
+</a>
+
+
+    
+    
+
+
+
+  <ul class="tweet-actions js-actions">
+    <li class="action-reply-container">
+      <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+        <span class="Icon Icon--reply"></span>
+        <b>Reply</b>
+      </a>
+    </li>
+    <li class="action-rt-container js-toggle-state js-toggle-rt">
+      <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweet</b>
+      </a>
+      <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweeted</b>
+      </a>
+    </li>
+    <li class="action-fav-container js-toggle-state js-toggle-fav">
+      <a role="button" class="with-icn favorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorite</b>
+      </a>
+      <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorited</b>
+      </a>
+    </li>
+
+    
+
+      <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+        <li class="share-via-email js-actionShareViaEmail" data-nav="share_tweet">
+          <button type="button" class="dropdown-link">Share via email</button>
+        </li>
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+            <li class="mute-user-item pretty-link"><button type="button" class="dropdown-link">Mute @MikeIsaac</button></li>
+  <li class="unmute-user-item pretty-link"><button type="button" class="dropdown-link">Unmute @MikeIsaac</button></li>
+
+        <li class="block-or-report-link js-actionBlockOrReport" data-nav="block_or_report">
+          <button type="button" class="dropdown-link">Block or Report</button>
+        </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+
+    
+  </ul>
+
+
+</div>
+
+
+      
+
+      
+
+    </div>
+  </div>
+
+
+
+</li>
+  <li class="js-stream-item stream-item stream-item expanding-stream-item
+" data-item-id="512271688118317056" id="stream-item-tweet-512271688118317056" data-item-type="tweet">
+      
+
+
+  
+
+
+  <div class="tweet original-tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable js-original-tweet   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+    
+data-feedback-key="stream_status_512271688118317056"
+data-tweet-id="512271688118317056"
+
+
+data-item-id="512271688118317056"
+
+
+ data-screen-name="ntabebe" data-name="Nitsuh Abebe" data-user-id="204426745"
+
+
+
+
+
+
+
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;12:07 PM - 17 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/ntabebe/status/512271688118317056&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+
+
+
+
+
+ data-you-follow="true"
+ data-you-block="false"
+
+
+>
+
+    <div class="context">
+      
+      
+
+      
+      
+      
+    </div>
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+        
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/ntabebe" data-user-id="204426745">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/505897002442313728/AbzHmAVz_bigger.png" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id">Nitsuh Abebe</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name"><s>@</s><b>ntabebe</b></span>
+      
+
+  </a>
+
+        <small class="time">
+    <a href="/ntabebe/status/512271688118317056" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:07 PM - 17 Sep 2014" ><span class="_timestamp js-short-timestamp js-relative-timestamp" data-time="1410970062" data-time-ms="1410970062000" data-long-form="true">19m</span></a>
+</small>
+
+        
+      </div>
+
+      
+
+      <p class="js-tweet-text tweet-text">I can&#39;t hide this any more: I am genuinely really worried about the fact that I am listening to technical death metal</p>
+
+
+
+
+      
+      
+
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+  
+
+
+
+      
+      <div class="stream-item-footer">
+      
+<a class="details with-icn js-details" href="/ntabebe/status/512271688118317056">
+  
+  <b>
+    <span class="expand-stream-item js-view-details">
+      
+        <span class="expand-action-wrapper">Expand</span>
+    </span>
+    <span class="collapse-stream-item collapse-action-wrapper js-hide-details">
+      Collapse
+    </span>
+  </b>
+</a>
+
+
+    
+    
+
+
+
+  <ul class="tweet-actions js-actions">
+    <li class="action-reply-container">
+      <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+        <span class="Icon Icon--reply"></span>
+        <b>Reply</b>
+      </a>
+    </li>
+    <li class="action-rt-container js-toggle-state js-toggle-rt">
+      <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweet</b>
+      </a>
+      <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweeted</b>
+      </a>
+    </li>
+    <li class="action-fav-container js-toggle-state js-toggle-fav">
+      <a role="button" class="with-icn favorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorite</b>
+      </a>
+      <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorited</b>
+      </a>
+    </li>
+
+    
+
+      <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+        <li class="share-via-email js-actionShareViaEmail" data-nav="share_tweet">
+          <button type="button" class="dropdown-link">Share via email</button>
+        </li>
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+            <li class="mute-user-item pretty-link"><button type="button" class="dropdown-link">Mute @ntabebe</button></li>
+  <li class="unmute-user-item pretty-link"><button type="button" class="dropdown-link">Unmute @ntabebe</button></li>
+
+        <li class="block-or-report-link js-actionBlockOrReport" data-nav="block_or_report">
+          <button type="button" class="dropdown-link">Block or Report</button>
+        </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+
+    
+  </ul>
+
+
+</div>
+
+
+      
+
+      
+
+    </div>
+  </div>
+
+
+
+</li>
+  <li class="js-stream-item stream-item stream-item expanding-stream-item
+" data-item-id="512255754100043776" id="stream-item-tweet-512255754100043776" data-item-type="tweet">
+      
+
+
+  
+
+
+  <div class="tweet original-tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable js-original-tweet   
+
+
+
+ has-cards
+ has-native-media
+ with-media-forward
+
+
+ auto-expanded
+
+
+
+
+media-forward
+
+
+
+
+
+
+
+
+
+"
+    
+data-feedback-key="stream_status_512255754100043776"
+data-tweet-id="512255754100043776"
+
+
+data-item-id="512255754100043776"
+
+ data-retweet-id="512271641544769536"
+ data-screen-name="MImusicmag" data-name="M/I Music Mag" data-user-id="2524670155"
+
+
+ data-has-native-media="true"
+ data-has-cards="true"
+
+  data-card-type="photo"
+  
+  
+
+
+
+
+
+
+
+ data-mentions="hauschkamusic cspenceryeh awesometapes"
+ data-retweeter="cspenceryeh"
+
+
+
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    <div class="context">
+      
+                <div class="with-icn">
+            <span class="Icon Icon--retweeted Icon--small"></span>
+              <span class="js-retweet-text"><a class="pretty-link js-user-profile-link" href="/cspenceryeh" data-user-id="317834404"><b>C. Spencer Yeh</b></a> retweeted</span>
+          </div>
+
+
+      
+      
+      
+    </div>
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+        
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/MImusicmag" data-user-id="2524670155">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/470900463076777984/I2zWuqJD_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id">M/I Music Mag</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name"><s>@</s><b>MImusicmag</b></span>
+      
+
+  </a>
+
+        <small class="time">
+    <a href="/MImusicmag/status/512255754100043776" class="tweet-timestamp js-permalink js-nav js-tooltip" title="11:04 AM - 17 Sep 2014" ><span class="_timestamp js-short-timestamp js-relative-timestamp" data-time="1410966263" data-time-ms="1410966263000" data-long-form="true">1h</span></a>
+</small>
+
+        
+      </div>
+
+      
+
+      <p class="js-tweet-text tweet-text">29 wrzesnia premiera, a teraz czas na spis tresci! <a href="/hashtag/music?src=hash" data-query-source="hashtag_click" class="twitter-hashtag pretty-link js-nav" dir="ltr" ><s>#</s><b>music</b></a> <a href="/hashtag/press?src=hash" data-query-source="hashtag_click" class="twitter-hashtag pretty-link js-nav" dir="ltr" ><s>#</s><b>press</b></a> <a href="/hauschkamusic" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>hauschkamusic</b></a>  <a href="/cspenceryeh" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>cspenceryeh</b></a> <a href="/awesometapes" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>awesometapes</b></a> <a href="http://t.co/nyA3vE7UFE" class="twitter-timeline-link u-hiddenVisually" data-pre-embedded="true" dir="ltr" >pic.twitter.com/nyA3vE7UFE</a></p>
+
+
+
+
+      
+              <div class="cards-media-container js-media-container"><div data-card-url="//twitter.com/MImusicmag/status/512255754100043776/photo/1" data-card-type="photo" class="cards-base cards-multimedia" data-element-context="platform_photo_card">
+
+
+  <a class="media media-thumbnail twitter-timeline-link media-forward is-preview" data-url="https://pbs.twimg.com/media/Bxvl5JOCYAEuKzw.jpg:large" data-resolved-url-large="https://pbs.twimg.com/media/Bxvl5JOCYAEuKzw.jpg:large" href="//twitter.com/MImusicmag/status/512255754100043776/photo/1">
+    <div class=" is-preview">
+          <div class="js-media-img-placeholder"
+            data-img-src="https://pbs.twimg.com/media/Bxvl5JOCYAEuKzw.jpg"
+             data-img-offset="-231.0px" data-img-alt="Embedded image permalink"
+            data-width="100%" style="min-height:1024px">
+          </div>
+    </div>
+
+  </a>
+
+  <div class="cards-content">
+    <div class="byline">
+      
+    </div>
+    
+  </div>
+  
+</div>
+
+
+
+
+</div>
+
+
+
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      <div class="js-tweet-details-fixer tweet-details-fixer">
+
+
+
+
+  <div class="js-machine-translated-tweet-container"></div>
+    <div class="js-tweet-stats-container tweet-stats-container ">
+    </div>
+
+  <div class="client-and-actions">
+  <span class="metadata">
+    <span>11:04 AM - 17 Sep 2014</span>
+
+       &middot; <a class="permalink-link js-permalink js-nav" href="/MImusicmag/status/512255754100043776"  tabindex="-1">Details</a>
+    
+
+        <span class="flag-container flag-cards">
+  <button type="button" class="flaggable btn-link">
+    Flag media
+  </button>
+  <span class="flagged hidden">
+    Flagged
+    <span>
+      <a target="_blank" href="//support.twitter.com/articles/20069937">
+        (learn more)
+      </a>
+    </span>
+  </span>
+</span>
+        
+        
+
+  </span>
+</div>
+
+
+</div>
+
+      
+      
+
+      
+  </div>
+
+    <div class="bottom-tweet-actions u-cf">
+      
+<a class="details with-icn js-details" href="/MImusicmag/status/512255754100043776">
+    <span class="Icon Icon--photo"></span>
+
+  <b>
+    <span class="expand-stream-item js-view-details">
+      Expand
+    </span>
+    <span class="collapse-stream-item  js-hide-details">
+      Collapse
+    </span>
+  </b>
+</a>
+
+    
+    
+
+
+
+  <ul class="tweet-actions js-actions">
+    <li class="action-reply-container">
+      <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+        <span class="Icon Icon--reply"></span>
+        <b>Reply</b>
+      </a>
+    </li>
+    <li class="action-rt-container js-toggle-state js-toggle-rt">
+      <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweet</b>
+      </a>
+      <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweeted</b>
+      </a>
+    </li>
+    <li class="action-fav-container js-toggle-state js-toggle-fav">
+      <a role="button" class="with-icn favorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorite</b>
+      </a>
+      <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorited</b>
+      </a>
+    </li>
+
+    
+
+      <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+        <li class="share-via-email js-actionShareViaEmail" data-nav="share_tweet">
+          <button type="button" class="dropdown-link">Share via email</button>
+        </li>
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+            <li class="mute-user-item pretty-link"><button type="button" class="dropdown-link">Mute @MImusicmag</button></li>
+  <li class="unmute-user-item pretty-link"><button type="button" class="dropdown-link">Unmute @MImusicmag</button></li>
+
+        <li class="block-or-report-link js-actionBlockOrReport" data-nav="block_or_report">
+          <button type="button" class="dropdown-link">Block or Report</button>
+        </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+
+    
+  </ul>
+
+
+  </div>
+
+
+
+
+      
+      <div class="stream-item-footer">
+</div>
+
+
+      
+
+      
+
+    </div>
+  </div>
+
+
+
+</li>
+  <li class="js-stream-item stream-item stream-item expanding-stream-item
+" data-item-id="512271610141605888" id="stream-item-tweet-512271610141605888" data-item-type="tweet">
+      
+
+
+  
+
+
+  <div class="tweet original-tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable js-original-tweet   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+    
+data-feedback-key="stream_status_512271610141605888"
+data-tweet-id="512271610141605888"
+
+
+data-item-id="512271610141605888"
+
+
+ data-screen-name="andiwithani" data-name="Andi" data-user-id="15507053"
+
+
+
+
+
+
+
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;12:07 PM - 17 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/andiwithani/status/512271610141605888&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="PartysanBerlin"
+
+
+
+
+ data-you-follow="true"
+ data-you-block="false"
+
+
+>
+
+    <div class="context">
+      
+      
+
+      
+      
+      
+    </div>
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+        
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/andiwithani" data-user-id="15507053">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/378800000575865840/421fe163a40aa4d2afe1711271a704c8_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id">Andi</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name"><s>@</s><b>andiwithani</b></span>
+      
+
+  </a>
+
+        <small class="time">
+    <a href="/andiwithani/status/512271610141605888" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:07 PM - 17 Sep 2014" ><span class="_timestamp js-short-timestamp js-relative-timestamp" data-time="1410970044" data-time-ms="1410970044000" data-long-form="true">20m</span></a>
+</small>
+
+        
+      </div>
+
+      
+
+      <p class="js-tweet-text tweet-text">TONIGHT! EBM Blitzlicht, 1820 Bar <a href="http://t.co/5WApLjAqTV" rel="nofollow" dir="ltr" data-expanded-url="http://www.partysan-berlin.com/ebm-blitzlicht-1820-bar/" class="twitter-timeline-link" target="_blank" title="http://www.partysan-berlin.com/ebm-blitzlicht-1820-bar/" ><span class="tco-ellipsis"></span><span class="invisible">http://www.</span><span class="js-display-url">partysan-berlin.com/ebm-blitzlicht</span><span class="invisible">-1820-bar/</span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span>…</span></a> via <a href="/PartysanBerlin" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>PartysanBerlin</b></a></p>
+
+
+
+
+      
+      
+
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+  
+
+
+
+      
+      <div class="stream-item-footer">
+      
+<a class="details with-icn js-details" href="/andiwithani/status/512271610141605888">
+  
+  <b>
+    <span class="expand-stream-item js-view-details">
+      
+        <span class="expand-action-wrapper">Expand</span>
+    </span>
+    <span class="collapse-stream-item collapse-action-wrapper js-hide-details">
+      Collapse
+    </span>
+  </b>
+</a>
+
+
+    
+    
+
+
+
+  <ul class="tweet-actions js-actions">
+    <li class="action-reply-container">
+      <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+        <span class="Icon Icon--reply"></span>
+        <b>Reply</b>
+      </a>
+    </li>
+    <li class="action-rt-container js-toggle-state js-toggle-rt">
+      <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweet</b>
+      </a>
+      <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweeted</b>
+      </a>
+    </li>
+    <li class="action-fav-container js-toggle-state js-toggle-fav">
+      <a role="button" class="with-icn favorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorite</b>
+      </a>
+      <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorited</b>
+      </a>
+    </li>
+
+    
+
+      <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+        <li class="share-via-email js-actionShareViaEmail" data-nav="share_tweet">
+          <button type="button" class="dropdown-link">Share via email</button>
+        </li>
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+            <li class="mute-user-item pretty-link"><button type="button" class="dropdown-link">Mute @andiwithani</button></li>
+  <li class="unmute-user-item pretty-link"><button type="button" class="dropdown-link">Unmute @andiwithani</button></li>
+
+        <li class="block-or-report-link js-actionBlockOrReport" data-nav="block_or_report">
+          <button type="button" class="dropdown-link">Block or Report</button>
+        </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+
+    
+  </ul>
+
+
+</div>
+
+
+      
+
+      
+
+    </div>
+  </div>
+
+
+
+</li>
+  <li class="js-stream-item stream-item stream-item expanding-stream-item
+" data-item-id="512271341077397504" id="stream-item-tweet-512271341077397504" data-item-type="tweet">
+      
+
+
+  
+
+
+  <div class="tweet original-tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable js-original-tweet   
+
+
+
+ has-cards
+ has-native-media
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+    
+data-feedback-key="stream_status_512271341077397504"
+data-tweet-id="512271341077397504"
+
+
+data-item-id="512271341077397504"
+
+
+ data-screen-name="cool_bugs" data-name="FrankfurtSchoolGamer" data-user-id="878557344"
+
+
+ data-has-native-media="true"
+ data-has-cards="true"
+
+  data-card-type="photo"
+  
+  
+
+
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;            &lt;div class=&quot;cards-media-container js-media-container&quot;&gt;&lt;div data-card-url=&quot;//twitter.com/cool_bugs/status/512271341077397504/photo/1&quot; data-card-type=&quot;photo&quot; class=&quot;cards-base cards-multimedia&quot; data-element-context=&quot;platform_photo_card&quot;&gt;&#10;&#10;&#10;  &lt;a class=&quot;media media-thumbnail twitter-timeline-link is-preview&quot; data-url=&quot;https://pbs.twimg.com/media/Bxv0EgpIgAAL3fW.jpg:large&quot; data-resolved-url-large=&quot;https://pbs.twimg.com/media/Bxv0EgpIgAAL3fW.jpg:large&quot; href=&quot;//twitter.com/cool_bugs/status/512271341077397504/photo/1&quot;&gt;&#10;    &lt;div class=&quot;&quot;&gt;&#10;          &lt;img src=&quot;https://pbs.twimg.com/media/Bxv0EgpIgAAL3fW.jpg&quot; alt=&quot;Embedded image permalink&quot; width=&quot;250&quot; height=&quot;100&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;/a&gt;&#10;&#10;  &lt;div class=&quot;cards-content&quot;&gt;&#10;    &lt;div class=&quot;byline&quot;&gt;&#10;      &#10;    &lt;/div&gt;&#10;    &#10;  &lt;/div&gt;&#10;  &#10;&lt;/div&gt;&#10;&#10;&#10;&#10;&#10;&lt;/div&gt;&#10;&#10;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;12:06 PM - 17 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/cool_bugs/status/512271341077397504&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;        &lt;span class=&quot;flag-container flag-cards&quot;&gt;&#10;  &lt;button type=&quot;button&quot; class=&quot;flaggable btn-link&quot;&gt;&#10;    Flag media&#10;  &lt;/button&gt;&#10;  &lt;span class=&quot;flagged hidden&quot;&gt;&#10;    Flagged&#10;    &lt;span&gt;&#10;      &lt;a target=&quot;_blank&quot; href=&quot;//support.twitter.com/articles/20069937&quot;&gt;&#10;        (learn more)&#10;      &lt;/a&gt;&#10;    &lt;/span&gt;&#10;  &lt;/span&gt;&#10;&lt;/span&gt;&#10;        &#10;        &#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+
+
+
+
+
+ data-you-follow="true"
+ data-you-block="false"
+
+
+>
+
+    <div class="context">
+      
+      
+
+      
+      
+      
+    </div>
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+        
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/cool_bugs" data-user-id="878557344">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/378800000540554983/5f5b2f260c04d736c2f90d36b7750546_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id">FrankfurtSchoolGamer</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name"><s>@</s><b>cool_bugs</b></span>
+      
+
+  </a>
+
+        <small class="time">
+    <a href="/cool_bugs/status/512271341077397504" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:06 PM - 17 Sep 2014" ><span class="_timestamp js-short-timestamp js-relative-timestamp" data-time="1410969979" data-time-ms="1410969979000" data-long-form="true">21m</span></a>
+</small>
+
+        
+      </div>
+
+      
+
+      <p class="js-tweet-text tweet-text">attn., Evisceration Crew <a href="http://t.co/a4wymNGZOP" class="twitter-timeline-link" data-pre-embedded="true" dir="ltr" >pic.twitter.com/a4wymNGZOP</a></p>
+
+
+
+
+      
+      
+
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+  
+
+
+
+      
+      <div class="stream-item-footer">
+      
+<a class="details with-icn js-details" href="/cool_bugs/status/512271341077397504">
+    <span class="Icon Icon--photo"></span>
+
+  <b>
+    <span class="expand-stream-item js-view-details">
+      View photo
+    </span>
+    <span class="collapse-stream-item  js-hide-details">
+      Hide photo
+    </span>
+  </b>
+</a>
+
+
+    
+    
+
+
+
+  <ul class="tweet-actions js-actions">
+    <li class="action-reply-container">
+      <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+        <span class="Icon Icon--reply"></span>
+        <b>Reply</b>
+      </a>
+    </li>
+    <li class="action-rt-container js-toggle-state js-toggle-rt">
+      <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweet</b>
+      </a>
+      <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweeted</b>
+      </a>
+    </li>
+    <li class="action-fav-container js-toggle-state js-toggle-fav">
+      <a role="button" class="with-icn favorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorite</b>
+      </a>
+      <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorited</b>
+      </a>
+    </li>
+
+    
+
+      <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+        <li class="share-via-email js-actionShareViaEmail" data-nav="share_tweet">
+          <button type="button" class="dropdown-link">Share via email</button>
+        </li>
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+            <li class="mute-user-item pretty-link"><button type="button" class="dropdown-link">Mute @cool_bugs</button></li>
+  <li class="unmute-user-item pretty-link"><button type="button" class="dropdown-link">Unmute @cool_bugs</button></li>
+
+        <li class="block-or-report-link js-actionBlockOrReport" data-nav="block_or_report">
+          <button type="button" class="dropdown-link">Block or Report</button>
+        </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+
+    
+  </ul>
+
+
+</div>
+
+
+      
+
+      
+
+    </div>
+  </div>
+
+
+
+</li>
+  <li class="js-stream-item stream-item stream-item expanding-stream-item
+" data-item-id="512271280796495872" id="stream-item-tweet-512271280796495872" data-item-type="tweet">
+      
+
+
+  
+
+
+  <div class="tweet original-tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable js-original-tweet   
+
+
+
+ has-cards
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+    
+data-feedback-key="stream_status_512271280796495872"
+data-tweet-id="512271280796495872"
+
+
+data-item-id="512271280796495872"
+
+
+ data-screen-name="bhoggard" data-name="Barry Hoggard" data-user-id="15838388"
+
+
+
+ data-has-cards="true"
+
+
+
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;        &lt;div class=&quot;card2 js-media-container&quot; data-card2-name=&quot;summary_large_image&quot;&gt;&#10;    &#10;&lt;div class=&quot;js-macaw-cards-iframe-container&quot;&#10;  data-src=&quot;/i/cards/tfw/v1/512271280796495872?cardname=summary_large_image&quot;&#10;  data-autoplay-src=&quot;/i/cards/tfw/v1/512271280796495872?cardname=summary_large_image&quot;&#10;  data-card-name=&quot;summary_large_image&quot;&#10;  data-card-url=&quot;https://t.co/9mVed0Akrx&quot;&#10;  data-publisher-id=&quot;190785976&quot;&#10;  data-creator-id=&quot;&quot;&#10;  data-amplify-content-id=&quot;&quot;&#10;  data-amplify-playlist-url=&quot;&quot; &gt;&#10;&lt;/div&gt;&#10;&#10;&lt;/div&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;12:06 PM - 17 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/bhoggard/status/512271280796495872&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &lt;span class=&quot;flag-container flag-cards&quot;&gt;&#10;  &lt;button type=&quot;button&quot; class=&quot;flaggable btn-link&quot;&gt;&#10;    Flag media&#10;  &lt;/button&gt;&#10;  &lt;span class=&quot;flagged hidden&quot;&gt;&#10;    Flagged&#10;    &lt;span&gt;&#10;      &lt;a target=&quot;_blank&quot; href=&quot;//support.twitter.com/articles/20069937&quot;&gt;&#10;        (learn more)&#10;      &lt;/a&gt;&#10;    &lt;/span&gt;&#10;  &lt;/span&gt;&#10;&lt;/span&gt;&#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="wwagner01 Paddle8"
+
+
+
+
+ data-you-follow="true"
+ data-you-block="false"
+
+
+>
+
+    <div class="context">
+      
+      
+
+      
+      
+      
+    </div>
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+        
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/bhoggard" data-user-id="15838388">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/3188795729/d46e8df71b94b6335508cd703315a704_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id">Barry Hoggard</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name"><s>@</s><b>bhoggard</b></span>
+      
+
+  </a>
+
+        <small class="time">
+    <a href="/bhoggard/status/512271280796495872" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:06 PM - 17 Sep 2014" ><span class="_timestamp js-short-timestamp js-relative-timestamp" data-time="1410969965" data-time-ms="1410969965000" data-long-form="true">21m</span></a>
+</small>
+
+        
+      </div>
+
+      
+
+      <p class="js-tweet-text tweet-text">Rauschenberg &amp; NASA! cc <a href="/wwagner01" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>wwagner01</b></a> - Robert Rauschenberg, Tracks from Stoned Moon Series, 1970 <a href="https://t.co/9mVed0Akrx" rel="nofollow" dir="ltr" data-expanded-url="https://paddle8.com/work/robert-rauschenberg/38609-tracks-from-stoned-moon-series" class="twitter-timeline-link" target="_blank" title="https://paddle8.com/work/robert-rauschenberg/38609-tracks-from-stoned-moon-series" ><span class="tco-ellipsis"></span><span class="invisible">https://</span><span class="js-display-url">paddle8.com/work/robert-ra</span><span class="invisible">uschenberg/38609-tracks-from-stoned-moon-series</span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span>…</span></a> via <a href="/Paddle8" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>paddle8</b></a></p>
+
+
+
+
+      
+      
+
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+  
+
+
+
+      
+      <div class="stream-item-footer">
+      
+<a class="details with-icn js-details" href="/bhoggard/status/512271280796495872">
+    <span class="Icon Icon--summary"></span>
+
+  <b>
+    <span class="expand-stream-item js-view-details">
+      View summary
+    </span>
+    <span class="collapse-stream-item  js-hide-details">
+      Hide summary
+    </span>
+  </b>
+</a>
+
+
+    
+    
+
+
+
+  <ul class="tweet-actions js-actions">
+    <li class="action-reply-container">
+      <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+        <span class="Icon Icon--reply"></span>
+        <b>Reply</b>
+      </a>
+    </li>
+    <li class="action-rt-container js-toggle-state js-toggle-rt">
+      <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweet</b>
+      </a>
+      <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweeted</b>
+      </a>
+    </li>
+    <li class="action-fav-container js-toggle-state js-toggle-fav">
+      <a role="button" class="with-icn favorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorite</b>
+      </a>
+      <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorited</b>
+      </a>
+    </li>
+
+    
+
+      <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+        <li class="share-via-email js-actionShareViaEmail" data-nav="share_tweet">
+          <button type="button" class="dropdown-link">Share via email</button>
+        </li>
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+            <li class="mute-user-item pretty-link"><button type="button" class="dropdown-link">Mute @bhoggard</button></li>
+  <li class="unmute-user-item pretty-link"><button type="button" class="dropdown-link">Unmute @bhoggard</button></li>
+
+        <li class="block-or-report-link js-actionBlockOrReport" data-nav="block_or_report">
+          <button type="button" class="dropdown-link">Block or Report</button>
+        </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+
+    
+  </ul>
+
+
+</div>
+
+
+      
+
+      
+
+    </div>
+  </div>
+
+
+
+</li>
+  <li class="js-stream-item stream-item stream-item expanding-stream-item
+" data-item-id="512271238551465984" id="stream-item-tweet-512271238551465984" data-item-type="tweet">
+      
+
+
+  
+
+
+  <div class="tweet original-tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable js-original-tweet   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+    
+data-feedback-key="stream_status_512271238551465984"
+data-tweet-id="512271238551465984"
+
+
+data-item-id="512271238551465984"
+
+
+ data-screen-name="becagrimm" data-name="Beca Grimm" data-user-id="85564999"
+
+
+
+
+
+
+
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;12:05 PM - 17 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/becagrimm/status/512271238551465984&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+
+
+
+
+
+ data-you-follow="true"
+ data-you-block="false"
+
+
+>
+
+    <div class="context">
+      
+      
+
+      
+      
+      
+    </div>
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+        
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/becagrimm" data-user-id="85564999">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/504964128960561152/TvGk9ugH_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id">Beca Grimm</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name"><s>@</s><b>becagrimm</b></span>
+      
+
+  </a>
+
+        <small class="time">
+    <a href="/becagrimm/status/512271238551465984" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:05 PM - 17 Sep 2014" ><span class="_timestamp js-short-timestamp js-relative-timestamp" data-time="1410969955" data-time-ms="1410969955000" data-long-form="true">21m</span></a>
+</small>
+
+        
+      </div>
+
+      
+
+      <p class="js-tweet-text tweet-text">Of all the code names my friends and I assign exes/currents/prospects, Furry Ghost is likely my favorite.</p>
+
+
+
+
+      
+      
+
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+  
+
+
+
+      
+      <div class="stream-item-footer">
+      
+<a class="details with-icn js-details" href="/becagrimm/status/512271238551465984">
+  
+  <b>
+    <span class="expand-stream-item js-view-details">
+      
+        <span class="expand-action-wrapper">Expand</span>
+    </span>
+    <span class="collapse-stream-item collapse-action-wrapper js-hide-details">
+      Collapse
+    </span>
+  </b>
+</a>
+
+
+    
+    
+
+
+
+  <ul class="tweet-actions js-actions">
+    <li class="action-reply-container">
+      <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+        <span class="Icon Icon--reply"></span>
+        <b>Reply</b>
+      </a>
+    </li>
+    <li class="action-rt-container js-toggle-state js-toggle-rt">
+      <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweet</b>
+      </a>
+      <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweeted</b>
+      </a>
+    </li>
+    <li class="action-fav-container js-toggle-state js-toggle-fav">
+      <a role="button" class="with-icn favorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorite</b>
+      </a>
+      <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorited</b>
+      </a>
+    </li>
+
+    
+
+      <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+        <li class="share-via-email js-actionShareViaEmail" data-nav="share_tweet">
+          <button type="button" class="dropdown-link">Share via email</button>
+        </li>
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+            <li class="mute-user-item pretty-link"><button type="button" class="dropdown-link">Mute @becagrimm</button></li>
+  <li class="unmute-user-item pretty-link"><button type="button" class="dropdown-link">Unmute @becagrimm</button></li>
+
+        <li class="block-or-report-link js-actionBlockOrReport" data-nav="block_or_report">
+          <button type="button" class="dropdown-link">Block or Report</button>
+        </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+
+    
+  </ul>
+
+
+</div>
+
+
+      
+
+      
+
+    </div>
+  </div>
+
+
+
+</li>
+  <li class="js-stream-item stream-item stream-item expanding-stream-item
+" data-item-id="512271131730915328" id="stream-item-tweet-512271131730915328" data-item-type="tweet">
+      
+
+
+  
+
+
+  <div class="tweet original-tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable js-original-tweet   
+
+
+
+ has-cards
+ has-native-media
+ with-media-forward
+
+
+ auto-expanded
+
+
+
+
+media-forward
+
+
+
+
+
+
+
+
+
+"
+    
+data-feedback-key="stream_status_512271131730915328"
+data-tweet-id="512271131730915328"
+
+
+data-item-id="512271131730915328"
+
+
+ data-screen-name="tricerarttops" data-name="♡ art $ farts cat ♡" data-user-id="95313348"
+
+
+ data-has-native-media="true"
+ data-has-cards="true"
+
+  data-card-type="photo"
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ data-you-follow="true"
+ data-you-block="false"
+
+
+>
+
+    <div class="context">
+      
+      
+
+      
+      
+      
+    </div>
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+        
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/tricerarttops" data-user-id="95313348">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/378800000799790346/ffee846a456d1b912babc9081eda67fd_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id">♡ art $ farts cat ♡</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name"><s>@</s><b>tricerarttops</b></span>
+      
+
+  </a>
+
+        <small class="time">
+    <a href="/tricerarttops/status/512271131730915328" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:05 PM - 17 Sep 2014" ><span class="_timestamp js-short-timestamp js-relative-timestamp" data-time="1410969930" data-time-ms="1410969930000" data-long-form="true">22m</span></a>
+</small>
+
+        
+      </div>
+
+      
+
+      <p class="js-tweet-text tweet-text"><a href="/hashtag/Gjonad?src=hash" data-query-source="hashtag_click" class="twitter-hashtag pretty-link js-nav" dir="ltr" ><s>#</s><b>Gjonad</b></a> <a href="http://t.co/ctX76Cblgt" class="twitter-timeline-link u-hiddenVisually" data-pre-embedded="true" dir="ltr" >pic.twitter.com/ctX76Cblgt</a></p>
+
+
+
+
+      
+              <div class="cards-media-container js-media-container"><div data-card-url="//twitter.com/tricerarttops/status/512271131730915328/photo/1" data-card-type="photo" class="cards-base cards-multimedia" data-element-context="platform_photo_card">
+
+
+  <a class="media media-thumbnail twitter-timeline-link media-forward is-preview" data-url="https://pbs.twimg.com/media/Bxvz4S6CYAAw453.jpg:large" data-resolved-url-large="https://pbs.twimg.com/media/Bxvz4S6CYAAw453.jpg:large" href="//twitter.com/tricerarttops/status/512271131730915328/photo/1">
+    <div class=" is-preview">
+          <div class="js-media-img-placeholder"
+            data-img-src="https://pbs.twimg.com/media/Bxvz4S6CYAAw453.jpg"
+             data-img-offset="-8.0px" data-img-alt="Embedded image permalink"
+            data-width="100%" style="min-height:336px">
+          </div>
+    </div>
+
+  </a>
+
+  <div class="cards-content">
+    <div class="byline">
+      
+    </div>
+    
+  </div>
+  
+</div>
+
+
+
+
+</div>
+
+
+
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      <div class="js-tweet-details-fixer tweet-details-fixer">
+
+
+
+
+  <div class="js-machine-translated-tweet-container"></div>
+    <div class="js-tweet-stats-container tweet-stats-container ">
+    </div>
+
+  <div class="client-and-actions">
+  <span class="metadata">
+    <span>12:05 PM - 17 Sep 2014</span>
+
+       &middot; <a class="permalink-link js-permalink js-nav" href="/tricerarttops/status/512271131730915328"  tabindex="-1">Details</a>
+    
+
+        <span class="flag-container flag-cards">
+  <button type="button" class="flaggable btn-link">
+    Flag media
+  </button>
+  <span class="flagged hidden">
+    Flagged
+    <span>
+      <a target="_blank" href="//support.twitter.com/articles/20069937">
+        (learn more)
+      </a>
+    </span>
+  </span>
+</span>
+        
+        
+
+  </span>
+</div>
+
+
+</div>
+
+      
+      
+
+      
+  </div>
+
+    <div class="bottom-tweet-actions u-cf">
+      
+<a class="details with-icn js-details" href="/tricerarttops/status/512271131730915328">
+    <span class="Icon Icon--photo"></span>
+
+  <b>
+    <span class="expand-stream-item js-view-details">
+      Expand
+    </span>
+    <span class="collapse-stream-item  js-hide-details">
+      Collapse
+    </span>
+  </b>
+</a>
+
+    
+    
+
+
+
+  <ul class="tweet-actions js-actions">
+    <li class="action-reply-container">
+      <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+        <span class="Icon Icon--reply"></span>
+        <b>Reply</b>
+      </a>
+    </li>
+    <li class="action-rt-container js-toggle-state js-toggle-rt">
+      <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweet</b>
+      </a>
+      <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweeted</b>
+      </a>
+    </li>
+    <li class="action-fav-container js-toggle-state js-toggle-fav">
+      <a role="button" class="with-icn favorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorite</b>
+      </a>
+      <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorited</b>
+      </a>
+    </li>
+
+    
+
+      <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+        <li class="share-via-email js-actionShareViaEmail" data-nav="share_tweet">
+          <button type="button" class="dropdown-link">Share via email</button>
+        </li>
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+            <li class="mute-user-item pretty-link"><button type="button" class="dropdown-link">Mute @tricerarttops</button></li>
+  <li class="unmute-user-item pretty-link"><button type="button" class="dropdown-link">Unmute @tricerarttops</button></li>
+
+        <li class="block-or-report-link js-actionBlockOrReport" data-nav="block_or_report">
+          <button type="button" class="dropdown-link">Block or Report</button>
+        </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+
+    
+  </ul>
+
+
+  </div>
+
+
+
+
+      
+      <div class="stream-item-footer">
+</div>
+
+
+      
+
+      
+
+    </div>
+  </div>
+
+
+
+</li>
+  <li class="js-stream-item stream-item stream-item expanding-stream-item
+" data-item-id="512271051661656064" id="stream-item-tweet-512271051661656064" data-item-type="tweet">
+      
+
+
+  
+
+
+  <div class="tweet original-tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable js-original-tweet   
+
+
+
+ has-cards
+ has-native-media
+ with-media-forward
+
+
+ auto-expanded
+
+
+
+
+media-forward
+
+
+
+
+
+
+
+
+
+"
+    
+data-feedback-key="stream_status_512271051661656064"
+data-tweet-id="512271051661656064"
+
+
+data-item-id="512271051661656064"
+
+
+ data-screen-name="tricerarttops" data-name="♡ art $ farts cat ♡" data-user-id="95313348"
+
+
+ data-has-native-media="true"
+ data-has-cards="true"
+
+  data-card-type="photo"
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ data-you-follow="true"
+ data-you-block="false"
+
+
+>
+
+    <div class="context">
+      
+      
+
+      
+      
+      
+    </div>
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+        
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/tricerarttops" data-user-id="95313348">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/378800000799790346/ffee846a456d1b912babc9081eda67fd_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id">♡ art $ farts cat ♡</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name"><s>@</s><b>tricerarttops</b></span>
+      
+
+  </a>
+
+        <small class="time">
+    <a href="/tricerarttops/status/512271051661656064" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:05 PM - 17 Sep 2014" ><span class="_timestamp js-short-timestamp js-relative-timestamp" data-time="1410969910" data-time-ms="1410969910000" data-long-form="true">22m</span></a>
+</small>
+
+        
+      </div>
+
+      
+
+      <p class="js-tweet-text tweet-text"><a href="/hashtag/Gjonad?src=hash" data-query-source="hashtag_click" class="twitter-hashtag pretty-link js-nav" dir="ltr" ><s>#</s><b>Gjonad</b></a> <a href="http://t.co/fCsI5ayWmP" class="twitter-timeline-link u-hiddenVisually" data-pre-embedded="true" dir="ltr" >pic.twitter.com/fCsI5ayWmP</a></p>
+
+
+
+
+      
+              <div class="cards-media-container js-media-container"><div data-card-url="//twitter.com/tricerarttops/status/512271051661656064/photo/1" data-card-type="photo" class="cards-base cards-multimedia" data-element-context="platform_photo_card">
+
+
+  <a class="media media-thumbnail twitter-timeline-link media-forward is-preview" data-url="https://pbs.twimg.com/media/BxvzzopCEAAX2WA.jpg:large" data-resolved-url-large="https://pbs.twimg.com/media/BxvzzopCEAAX2WA.jpg:large" href="//twitter.com/tricerarttops/status/512271051661656064/photo/1">
+    <div class=" is-preview">
+          <div class="js-media-img-placeholder"
+            data-img-src="https://pbs.twimg.com/media/BxvzzopCEAAX2WA.jpg"
+             data-img-offset="-105.0px" data-img-alt="Embedded image permalink"
+            data-width="100%" style="min-height:631px">
+          </div>
+    </div>
+
+  </a>
+
+  <div class="cards-content">
+    <div class="byline">
+      
+    </div>
+    
+  </div>
+  
+</div>
+
+
+
+
+</div>
+
+
+
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      <div class="js-tweet-details-fixer tweet-details-fixer">
+
+
+
+
+  <div class="js-machine-translated-tweet-container"></div>
+    <div class="js-tweet-stats-container tweet-stats-container ">
+    </div>
+
+  <div class="client-and-actions">
+  <span class="metadata">
+    <span>12:05 PM - 17 Sep 2014</span>
+
+       &middot; <a class="permalink-link js-permalink js-nav" href="/tricerarttops/status/512271051661656064"  tabindex="-1">Details</a>
+    
+
+        <span class="flag-container flag-cards">
+  <button type="button" class="flaggable btn-link">
+    Flag media
+  </button>
+  <span class="flagged hidden">
+    Flagged
+    <span>
+      <a target="_blank" href="//support.twitter.com/articles/20069937">
+        (learn more)
+      </a>
+    </span>
+  </span>
+</span>
+        
+        
+
+  </span>
+</div>
+
+
+</div>
+
+      
+      
+
+      
+  </div>
+
+    <div class="bottom-tweet-actions u-cf">
+      
+<a class="details with-icn js-details" href="/tricerarttops/status/512271051661656064">
+    <span class="Icon Icon--photo"></span>
+
+  <b>
+    <span class="expand-stream-item js-view-details">
+      Expand
+    </span>
+    <span class="collapse-stream-item  js-hide-details">
+      Collapse
+    </span>
+  </b>
+</a>
+
+    
+    
+
+
+
+  <ul class="tweet-actions js-actions">
+    <li class="action-reply-container">
+      <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+        <span class="Icon Icon--reply"></span>
+        <b>Reply</b>
+      </a>
+    </li>
+    <li class="action-rt-container js-toggle-state js-toggle-rt">
+      <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweet</b>
+      </a>
+      <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweeted</b>
+      </a>
+    </li>
+    <li class="action-fav-container js-toggle-state js-toggle-fav">
+      <a role="button" class="with-icn favorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorite</b>
+      </a>
+      <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorited</b>
+      </a>
+    </li>
+
+    
+
+      <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+        <li class="share-via-email js-actionShareViaEmail" data-nav="share_tweet">
+          <button type="button" class="dropdown-link">Share via email</button>
+        </li>
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+            <li class="mute-user-item pretty-link"><button type="button" class="dropdown-link">Mute @tricerarttops</button></li>
+  <li class="unmute-user-item pretty-link"><button type="button" class="dropdown-link">Unmute @tricerarttops</button></li>
+
+        <li class="block-or-report-link js-actionBlockOrReport" data-nav="block_or_report">
+          <button type="button" class="dropdown-link">Block or Report</button>
+        </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+
+    
+  </ul>
+
+
+  </div>
+
+
+
+
+      
+      <div class="stream-item-footer">
+</div>
+
+
+      
+
+      
+
+    </div>
+  </div>
+
+
+
+</li>
+  <li class="js-stream-item stream-item stream-item expanding-stream-item js-has-navigable-stream
+" data-item-id="512271035903668225" id="stream-item-tweet-512271035903668225" data-item-type="tweet">
+      
+
+
+  
+
+    <ol class="conversation-module  stream-items js-navigable-stream" data-ancestors="512259991634726913">
+
+  <li class="conversation-header js-unselectable-stream-item" data-item-id="512259991634726913">
+    <div class="content">
+      <a href="/avantghettonyc/status/512259991634726913" class="uncollapse with-icn">
+        <span class="Icon Icon--reply"></span>
+              In reply to Jeff Conklin
+
+      </a>
+    </div>
+  </li>
+
+    <li class="conversation-root conversation-tweet-item first-navigable-stream-item">
+      
+
+
+  
+
+
+  <div class="tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable js-original-tweet   
+
+
+
+ has-cards
+
+
+
+
+
+
+
+
+
+conversation-root conversation-tweet
+
+
+
+
+
+
+
+
+
+"
+    
+data-feedback-key="stream_status_512259991634726913"
+data-tweet-id="512259991634726913"
+
+
+data-item-id="512259991634726913"
+
+
+ data-screen-name="avantghettonyc" data-name="Jeff Conklin" data-user-id="86376182"
+
+
+
+ data-has-cards="true"
+
+
+
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;        &lt;div class=&quot;card2 js-media-container&quot; data-card2-name=&quot;player&quot;&gt;&#10;    &#10;&lt;div class=&quot;js-macaw-cards-iframe-container&quot;&#10;  data-src=&quot;/i/cards/tfw/v1/512259991634726913?cardname=player&quot;&#10;  data-autoplay-src=&quot;/i/cards/tfw/v1/512259991634726913?cardname=player&quot;&#10;  data-card-name=&quot;player&quot;&#10;  data-card-url=&quot;http://t.co/majXINSilW&quot;&#10;  data-publisher-id=&quot;10228272&quot;&#10;  data-creator-id=&quot;&quot;&#10;  data-amplify-content-id=&quot;&quot;&#10;  data-amplify-playlist-url=&quot;&quot; &gt;&#10;&lt;/div&gt;&#10;&#10;&lt;/div&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;11:21 AM - 17 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/avantghettonyc/status/512259991634726913&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &lt;span class=&quot;flag-container flag-cards&quot;&gt;&#10;  &lt;button type=&quot;button&quot; class=&quot;flaggable btn-link&quot;&gt;&#10;    Flag media&#10;  &lt;/button&gt;&#10;  &lt;span class=&quot;flagged hidden&quot;&gt;&#10;    Flagged&#10;    &lt;span&gt;&#10;      &lt;a target=&quot;_blank&quot; href=&quot;//support.twitter.com/articles/20069937&quot;&gt;&#10;        (learn more)&#10;      &lt;/a&gt;&#10;    &lt;/span&gt;&#10;  &lt;/span&gt;&#10;&lt;/span&gt;&#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+
+
+
+
+
+ data-you-follow="true"
+ data-you-block="false"
+
+
+>
+
+    <div class="context">
+      
+      
+
+      
+      
+      
+    </div>
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+        
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/avantghettonyc" data-user-id="86376182">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/499838527782551552/opXUZhXK_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id">Jeff Conklin</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name"><s>@</s><b>avantghettonyc</b></span>
+      
+
+  </a>
+
+        <small class="time">
+    <a href="/avantghettonyc/status/512259991634726913" class="tweet-timestamp js-permalink js-nav js-tooltip" title="11:21 AM - 17 Sep 2014" ><span class="_timestamp js-short-timestamp js-relative-timestamp" data-time="1410967274" data-time-ms="1410967274000" data-long-form="true">1h</span></a>
+</small>
+
+        
+      </div>
+
+      
+
+      <p class="js-tweet-text tweet-text">Extremely embarrassed that prior to this morning, Id never sat down with this album. Forgive me. <a href="http://t.co/majXINSilW" rel="nofollow" dir="ltr" data-expanded-url="http://youtu.be/CF5JFJjqVCQ" class="twitter-timeline-link" target="_blank" title="http://youtu.be/CF5JFJjqVCQ" ><span class="tco-ellipsis"></span><span class="invisible">http://</span><span class="js-display-url">youtu.be/CF5JFJjqVCQ</span><span class="invisible"></span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span></span></a></p>
+
+
+
+
+      
+      
+
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+  
+
+
+
+      
+      <div class="stream-item-footer">
+      
+<a class="details with-icn js-details" href="/avantghettonyc/status/512259991634726913">
+    <span class="Icon Icon--media"></span>
+
+  <b>
+    <span class="expand-stream-item js-view-details">
+      View media
+    </span>
+    <span class="collapse-stream-item  js-hide-details">
+      Hide media
+    </span>
+  </b>
+</a>
+
+
+    
+    
+
+
+
+  <ul class="tweet-actions js-actions">
+    <li class="action-reply-container">
+      <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+        <span class="Icon Icon--reply"></span>
+        <b>Reply</b>
+      </a>
+    </li>
+    <li class="action-rt-container js-toggle-state js-toggle-rt">
+      <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweet</b>
+      </a>
+      <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweeted</b>
+      </a>
+    </li>
+    <li class="action-fav-container js-toggle-state js-toggle-fav">
+      <a role="button" class="with-icn favorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorite</b>
+      </a>
+      <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorited</b>
+      </a>
+    </li>
+
+    
+
+      <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+        <li class="share-via-email js-actionShareViaEmail" data-nav="share_tweet">
+          <button type="button" class="dropdown-link">Share via email</button>
+        </li>
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+            <li class="mute-user-item pretty-link"><button type="button" class="dropdown-link">Mute @avantghettonyc</button></li>
+  <li class="unmute-user-item pretty-link"><button type="button" class="dropdown-link">Unmute @avantghettonyc</button></li>
+
+        <li class="block-or-report-link js-actionBlockOrReport" data-nav="block_or_report">
+          <button type="button" class="dropdown-link">Block or Report</button>
+        </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+
+    
+  </ul>
+
+
+</div>
+
+
+      
+
+      
+
+    </div>
+  </div>
+
+
+
+    </li>
+
+
+
+  <li class="original-tweet-item last-navigable-stream-item">
+
+
+  <div class="tweet original-tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable js-original-tweet   
+
+
+
+
+
+
+
+
+
+
+
+
+
+has-conversation-module
+
+
+
+
+
+
+
+
+
+"
+    
+data-feedback-key="stream_status_512271035903668225"
+data-tweet-id="512271035903668225"
+
+
+data-item-id="512271035903668225"
+
+
+ data-screen-name="emilypostpunk" data-name="Emily Post-Punk" data-user-id="11234012"
+
+
+
+
+
+ data-is-reply-to="true" 
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;12:05 PM - 17 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/emilypostpunk/status/512271035903668225&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="avantghettonyc"
+
+
+
+
+ data-you-follow="true"
+ data-you-block="false"
+
+
+>
+
+    <div class="context">
+      
+      
+
+      
+      
+      
+    </div>
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+        
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/emilypostpunk" data-user-id="11234012">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/424302021122867200/6SQbmR5l_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id">Emily Post-Punk</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name"><s>@</s><b>emilypostpunk</b></span>
+      
+
+  </a>
+
+        <small class="time">
+    <a href="/emilypostpunk/status/512271035903668225" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:05 PM - 17 Sep 2014" ><span class="_timestamp js-short-timestamp js-relative-timestamp" data-time="1410969907" data-time-ms="1410969907000" data-long-form="true">22m</span></a>
+</small>
+
+        
+      </div>
+
+      
+
+      <p class="js-tweet-text tweet-text"><a href="/avantghettonyc" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>avantghettonyc</b></a> i can&#39;t believe i used to think you were cool.</p>
+
+
+
+
+      
+      
+
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+  
+
+
+
+      
+      <div class="stream-item-footer">
+      
+<a class="details with-icn js-details" href="/emilypostpunk/status/512271035903668225">
+  
+  <b>
+    <span class="expand-stream-item js-view-details">
+      
+        <span class="expand-action-wrapper">Expand</span>
+    </span>
+    <span class="collapse-stream-item collapse-action-wrapper js-hide-details">
+      Collapse
+    </span>
+  </b>
+</a>
+
+
+    
+    
+
+
+
+  <ul class="tweet-actions js-actions">
+    <li class="action-reply-container">
+      <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+        <span class="Icon Icon--reply"></span>
+        <b>Reply</b>
+      </a>
+    </li>
+    <li class="action-rt-container js-toggle-state js-toggle-rt">
+      <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweet</b>
+      </a>
+      <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweeted</b>
+      </a>
+    </li>
+    <li class="action-fav-container js-toggle-state js-toggle-fav">
+      <a role="button" class="with-icn favorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorite</b>
+      </a>
+      <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorited</b>
+      </a>
+    </li>
+
+    
+
+      <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+        <li class="share-via-email js-actionShareViaEmail" data-nav="share_tweet">
+          <button type="button" class="dropdown-link">Share via email</button>
+        </li>
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+            <li class="mute-user-item pretty-link"><button type="button" class="dropdown-link">Mute @emilypostpunk</button></li>
+  <li class="unmute-user-item pretty-link"><button type="button" class="dropdown-link">Unmute @emilypostpunk</button></li>
+
+        <li class="block-or-report-link js-actionBlockOrReport" data-nav="block_or_report">
+          <button type="button" class="dropdown-link">Block or Report</button>
+        </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+
+    
+  </ul>
+
+
+</div>
+
+
+      
+
+      
+
+    </div>
+  </div>
+
+      </li> 
+</ol> 
+
+
+
+</li>
+  <li class="js-stream-item stream-item stream-item expanding-stream-item
+" data-item-id="512270914436599809" id="stream-item-tweet-512270914436599809" data-item-type="tweet">
+      
+
+
+  
+
+
+  <div class="tweet original-tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable js-original-tweet   
+
+
+
+ has-cards
+ has-native-media
+ with-media-forward
+
+
+ auto-expanded
+
+
+
+
+media-forward
+
+
+
+
+
+
+
+
+
+"
+    
+data-feedback-key="stream_status_512270914436599809"
+data-tweet-id="512270914436599809"
+
+
+data-item-id="512270914436599809"
+
+
+ data-screen-name="tricerarttops" data-name="♡ art $ farts cat ♡" data-user-id="95313348"
+
+
+ data-has-native-media="true"
+ data-has-cards="true"
+
+  data-card-type="photo"
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ data-you-follow="true"
+ data-you-block="false"
+
+
+>
+
+    <div class="context">
+      
+      
+
+      
+      
+      
+    </div>
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+        
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/tricerarttops" data-user-id="95313348">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/378800000799790346/ffee846a456d1b912babc9081eda67fd_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id">♡ art $ farts cat ♡</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name"><s>@</s><b>tricerarttops</b></span>
+      
+
+  </a>
+
+        <small class="time">
+    <a href="/tricerarttops/status/512270914436599809" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:04 PM - 17 Sep 2014" ><span class="_timestamp js-short-timestamp js-relative-timestamp" data-time="1410969878" data-time-ms="1410969878000" data-long-form="true">22m</span></a>
+</small>
+
+        
+      </div>
+
+      
+
+      <p class="js-tweet-text tweet-text"><a href="/hashtag/Gjonad?src=hash" data-query-source="hashtag_click" class="twitter-hashtag pretty-link js-nav" dir="ltr" ><s>#</s><b>Gjonad</b></a> <a href="http://t.co/8Chc5x93nK" class="twitter-timeline-link u-hiddenVisually" data-pre-embedded="true" dir="ltr" >pic.twitter.com/8Chc5x93nK</a></p>
+
+
+
+
+      
+              <div class="cards-media-container js-media-container"><div data-card-url="//twitter.com/tricerarttops/status/512270914436599809/photo/1" data-card-type="photo" class="cards-base cards-multimedia" data-element-context="platform_photo_card">
+
+
+  <a class="media media-thumbnail twitter-timeline-link media-forward is-preview" data-url="https://pbs.twimg.com/media/BxvzrmCCYAAcaxd.jpg:large" data-resolved-url-large="https://pbs.twimg.com/media/BxvzrmCCYAAcaxd.jpg:large" href="//twitter.com/tricerarttops/status/512270914436599809/photo/1">
+    <div class=" is-preview">
+          <div class="js-media-img-placeholder"
+            data-img-src="https://pbs.twimg.com/media/BxvzrmCCYAAcaxd.jpg"
+             data-img-offset="-0.0px" data-img-alt="Embedded image permalink"
+            data-width="100%" style="min-height:205px">
+          </div>
+    </div>
+
+  </a>
+
+  <div class="cards-content">
+    <div class="byline">
+      
+    </div>
+    
+  </div>
+  
+</div>
+
+
+
+
+</div>
+
+
+
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      <div class="js-tweet-details-fixer tweet-details-fixer">
+
+
+
+
+  <div class="js-machine-translated-tweet-container"></div>
+    <div class="js-tweet-stats-container tweet-stats-container ">
+    </div>
+
+  <div class="client-and-actions">
+  <span class="metadata">
+    <span>12:04 PM - 17 Sep 2014</span>
+
+       &middot; <a class="permalink-link js-permalink js-nav" href="/tricerarttops/status/512270914436599809"  tabindex="-1">Details</a>
+    
+
+        <span class="flag-container flag-cards">
+  <button type="button" class="flaggable btn-link">
+    Flag media
+  </button>
+  <span class="flagged hidden">
+    Flagged
+    <span>
+      <a target="_blank" href="//support.twitter.com/articles/20069937">
+        (learn more)
+      </a>
+    </span>
+  </span>
+</span>
+        
+        
+
+  </span>
+</div>
+
+
+</div>
+
+      
+      
+
+      
+  </div>
+
+    <div class="bottom-tweet-actions u-cf">
+      
+<a class="details with-icn js-details" href="/tricerarttops/status/512270914436599809">
+    <span class="Icon Icon--photo"></span>
+
+  <b>
+    <span class="expand-stream-item js-view-details">
+      Expand
+    </span>
+    <span class="collapse-stream-item  js-hide-details">
+      Collapse
+    </span>
+  </b>
+</a>
+
+    
+    
+
+
+
+  <ul class="tweet-actions js-actions">
+    <li class="action-reply-container">
+      <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+        <span class="Icon Icon--reply"></span>
+        <b>Reply</b>
+      </a>
+    </li>
+    <li class="action-rt-container js-toggle-state js-toggle-rt">
+      <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweet</b>
+      </a>
+      <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+        <span class="Icon Icon--retweet"></span>
+        <b>Retweeted</b>
+      </a>
+    </li>
+    <li class="action-fav-container js-toggle-state js-toggle-fav">
+      <a role="button" class="with-icn favorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorite</b>
+      </a>
+      <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+        <span class="Icon Icon--favorite"></span>
+        <b>Favorited</b>
+      </a>
+    </li>
+
+    
+
+      <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+        <li class="share-via-email js-actionShareViaEmail" data-nav="share_tweet">
+          <button type="button" class="dropdown-link">Share via email</button>
+        </li>
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+            <li class="mute-user-item pretty-link"><button type="button" class="dropdown-link">Mute @tricerarttops</button></li>
+  <li class="unmute-user-item pretty-link"><button type="button" class="dropdown-link">Unmute @tricerarttops</button></li>
+
+        <li class="block-or-report-link js-actionBlockOrReport" data-nav="block_or_report">
+          <button type="button" class="dropdown-link">Block or Report</button>
+        </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+
+    
+  </ul>
+
+
+  </div>
+
+
+
+
+      
+      <div class="stream-item-footer">
+</div>
+
+
+      
+
+      
+
+    </div>
+  </div>
+
+
+
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
