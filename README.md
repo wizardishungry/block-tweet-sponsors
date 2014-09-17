@@ -7,5 +7,6 @@ Written in PHP. I'm sorry.
 # cp config.php{.dist,}
 # Create api stuff from https://apps.twitter.com and put it in config.php
 # php block.php
+# to leave it running forever : ` while [ 0 ]; do php block.php; sleep 60; done`
 
-Eat shit sponsorers!
+Eat shit, sponsors!
