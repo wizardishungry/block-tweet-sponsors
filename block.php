@@ -10,14 +10,13 @@ if(!TEST) {
 
     $twitter->host = "https://twitter.com/";
     $tweets = $twitter->get("/i/timeline", array('include_available_features'=>1, 'include_entities'=>1, 'last_note_ts'=>'0','max_position'=>''));
-    $tweets = $tweets->items_html;
+    $body = $tweets->items_html;
 }
 else {
-    $tweets = file_get_contents("$path/test.txt");
+    $body = file_get_contents("$path/test.txt");
 }
 
-
-$dom = DOMDocument::loadHTML($tweets);
+$dom = DOMDocument::loadHTML($body);
 $finder = new DomXPath($dom);
 $classname="promoted-tweet";
 $nodeList = $finder->query("//*[contains(concat(' ', normalize-space(@class), ' '), ' $classname ')]");
